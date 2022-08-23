@@ -3,13 +3,12 @@
 ## APP
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio) 
     - Fungsi    : Blog Sederhana
-    - Tech      : Django, HTML/CSS/JS
+    - Tech      : Django, HTML/CSS/JS, postgresql
     - Fitur     : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
-    - Database  : postgresql
     - Problem   : belum otentifikasi, Form belum handle image, send email by django masih bermasalah
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
     - Fungsi    : Aplikasi bookmarks/capture image dari web lain dan menyimpannya ke app, mirip pinterest addon
-    - Tech      : Django, HTML/CSS/JS, AJAX, Redis
+    - Tech      : Django, HTML/CSS/JS, AJAX, Redis, postgresql
     - Fitur     :
         - User management (Otentikasi, Registrasi user, Login, logout, rubah password, reset password/lupa password)
         - Messages framework : pesan highlight pada halaman atas ketika suatu operasi sukses/error
@@ -21,11 +20,9 @@
         - Activity Stream : stream aktivitas user yang kita follow (upload, bookmarks, like, follow dll)
         - Menampilkan Jumlah view menggunakan REDIS
         - Menampilkan Ranking menggunakan REDIS
-     - Database   : postgresql
-     - template   : HTML/CSS/JS/AJAX
  3. Online Shop Antonio --> [source](https://github.com/ArisDjango/OnlineShopAntonioReborn2)
     - Fungsi        : Online Shop Sederhana
-    - Tech          : Django, HTML/CSS/JS, celery-rabbitMQ, Redis, Django-rosetta, docker
+    - Tech          : Django, HTML/CSS/JS, celery-rabbitMQ, Redis, Django-rosetta, postgresql, docker
     - Fitur         :
         - Product catalog
         - shoping cart menggunakan django sessions
@@ -40,7 +37,7 @@
         - Multilanguage system menggunakan Django rosetta
  4. Educa E-Learning --> [source](https://github.com/ArisDjango/EducaAntonio)
     - Fungsi        : Content Management System E-Learning
-    - Tech          : Django, HTML/CSS/JS, memcached, DRF, django-channels & redis, websocket-jquery, docker
+    - Tech          : Django, HTML/CSS/JS, memcached, DRF, django-channels & redis, websocket-jquery, postgresql, docker
     - Fitur         : 
         - Otentikasi instruktur (registrasi, Login/logout)
         - list semua course / single course yang dibuat oleh instruktur, difilter berdasarkan subject, 
@@ -53,3 +50,16 @@
         - Chat server menggunakan django-channels dan redis
         - Implementasi Web Socket Clients menggunakan jquery
         - Deploy dengan docker
+  5. Simple E-commerce --> [source](https://github.com/ArisDjango/ecomVery)
+     - Fungsi       : Ecommerce sederhana
+     - Tech         : Django, Bootstrap5, sqlite, AJAX
+     - Fitur        :
+        - manajemen akun
+        - keranjang belanja
+        - payment: paypal
+  6. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
+     - Fungsi       : Blog sederhana
+     - Tech         : Django, DRF, React
+  7. Planner sederhana (CRUD) --> [Source](https://github.com/ArisPython/fastapi)
+     - Fungsi       : fungsionalitas CRUD
+     - Tech         : FastAPI
