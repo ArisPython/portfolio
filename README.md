@@ -35,7 +35,7 @@
         - Invoice PDF menggunakan WeasyPrint
         - Sistem Kupon : mengaplikasikan diskon ke shoping cart dan order
         - Sistem rekomendasi produk emnggunakan Redis
-        - Multilangage system menggunakan Django rosetta
+        - Multilanguage system menggunakan Django rosetta
  4. Educa E-Learning --> [source](https://github.com/ArisDjango/EducaAntonio)
     - Fungsi        : Content Management System E-Learning
     - Fitur         : 
@@ -49,3 +49,4 @@
         - RestFul API menggunakan Django Rest Framework
         - Chat server menggunakan django-channels dan redis
         - Implementasi Web Socket Clients menggunakan jquery
+        - Deploy dengan docker
