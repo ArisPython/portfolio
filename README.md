@@ -60,6 +60,9 @@
   6. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
      - Fungsi       : Blog sederhana
      - Tech         : Django, DRF, React
-  7. Planner sederhana (CRUD) --> [Source](https://github.com/ArisPython/fastapi)
+  7. Todo sederhana (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/todos)
      - Fungsi       : fungsionalitas CRUD
      - Tech         : FastAPI
+  8. Planner app (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/planner)
+     - Fungsi       : CRUD
+     - Tech         : FastAPI, MongoDB
