@@ -1,6 +1,6 @@
 # Project
 
-## Django + HTML/CSS/Bootstrap
+## APP
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio) 
     - Fungsi    : Blog Sederhana
     - Fitur     : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
@@ -46,3 +46,6 @@
         - Student Registration System ( Sign up, login/logout )
         - Enroll System
         - Django cache framework dan memcached
+        - RestFul API menggunakan Django Rest Framework
+        - Chat server menggunakan django-channels dan redis
+        - Implementasi Web Socket Clients menggunakan jquery
