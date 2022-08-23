@@ -3,12 +3,13 @@
 ## APP
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio) 
     - Fungsi    : Blog Sederhana
+    - Tech      : Django, HTML/CSS/JS
     - Fitur     : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
     - Database  : postgresql
-    - Template  : HTML/CSS/JS
     - Problem   : belum otentifikasi, Form belum handle image, send email by django masih bermasalah
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
     - Fungsi    : Aplikasi bookmarks/capture image dari web lain dan menyimpannya ke app, mirip pinterest addon
+    - Tech      : Django, HTML/CSS/JS, AJAX, Redis
     - Fitur     :
         - User management (Otentikasi, Registrasi user, Login, logout, rubah password, reset password/lupa password)
         - Messages framework : pesan highlight pada halaman atas ketika suatu operasi sukses/error
@@ -24,6 +25,7 @@
      - template   : HTML/CSS/JS/AJAX
  3. Online Shop Antonio --> [source](https://github.com/ArisDjango/OnlineShopAntonioReborn2)
     - Fungsi        : Online Shop Sederhana
+    - Tech          : Django, HTML/CSS/JS, celery-rabbitMQ, Redis, Django-rosetta, docker
     - Fitur         :
         - Product catalog
         - shoping cart menggunakan django sessions
@@ -38,6 +40,7 @@
         - Multilanguage system menggunakan Django rosetta
  4. Educa E-Learning --> [source](https://github.com/ArisDjango/EducaAntonio)
     - Fungsi        : Content Management System E-Learning
+    - Tech          : Django, HTML/CSS/JS, memcached, DRF, django-channels & redis, websocket-jquery, docker
     - Fitur         : 
         - Otentikasi instruktur (registrasi, Login/logout)
         - list semua course / single course yang dibuat oleh instruktur, difilter berdasarkan subject, 
