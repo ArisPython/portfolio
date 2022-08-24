@@ -66,3 +66,4 @@
   8. Planner app (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/planner)
      - Fungsi       : CRUD
      - Tech         : FastAPI, MongoDB
+     - Fitur        : Otentikasi, OAuth2 dan JWT, dependency Injection, CORS
