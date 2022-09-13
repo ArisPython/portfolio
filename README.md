@@ -99,6 +99,7 @@
   
      <details>
           <summary>Details</summary>
+   
            - Fungsi       : fungsionalitas CRUD
            - Tech         : FastAPI
      </details>
@@ -107,6 +108,7 @@
   
      <details>
           <summary>Details</summary>
+   
             - Fungsi       : CRUD
            - Tech         : FastAPI, MongoDB
            - Fitur        : Otentikasi, OAuth2 dan JWT, dependency Injection, CORS
