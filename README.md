@@ -2,11 +2,13 @@
 
 ## APP
 ### Monolith
-1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio) 
+1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio)
+<detail>
     - Fungsi    : Blog Sederhana
     - Tech      : Django, HTML/CSS/JS, postgresql
     - Fitur     : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
     - Problem   : belum otentifikasi, Form belum handle image, send email by django masih bermasalah
+ </detail>
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
     - Fungsi    : Aplikasi bookmarks/capture image dari web lain dan menyimpannya ke app, mirip pinterest addon
     - Tech      : Django, HTML/CSS/JS, AJAX, Redis, postgresql
