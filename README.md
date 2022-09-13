@@ -3,6 +3,7 @@
 ## APP
 ### Monolith
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio)
+
 <details>
     - Fungsi    : Blog Sederhana
     - Tech      : Django, HTML/CSS/JS, postgresql
