@@ -75,14 +75,14 @@
   5. Simple E-commerce --> [source](https://github.com/ArisDjango/ecomVery)
   
      <details>
-       <summary>Details</summary>
-   
-        - Fungsi       : Ecommerce sederhana
-        - Tech         : Django, Bootstrap5, sqlite, AJAX
-        - Fitur        :
-           - manajemen akun
-           - keranjang belanja
-           - payment: paypal
+          <summary>Details</summary>
+
+           - Fungsi       : Ecommerce sederhana
+           - Tech         : Django, Bootstrap5, sqlite, AJAX
+           - Fitur        :
+              - manajemen akun
+              - keranjang belanja
+              - payment: paypal
      </details>
   
   ## API
