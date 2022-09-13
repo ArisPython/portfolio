@@ -4,15 +4,15 @@
 ### Monolith
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio)
 
-    <details>
-        <summary>Details</summary>
+<details>
+   <summary>Details</summary>
 
         - Fungsi    : Blog Sederhana
         - Tech      : Django, HTML/CSS/JS, postgresql
         - Fitur     : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
         - Problem   : belum otentifikasi, Form belum handle image, send email by django masih bermasalah
 
-     </details>
+</details>
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
 
     <details>
