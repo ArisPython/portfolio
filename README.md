@@ -11,7 +11,7 @@
         - Fitur     : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
         - Problem   : belum otentifikasi, Form belum handle image, send email by django masih bermasalah
 
-</details>
+    </details>
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
 
     <details>
