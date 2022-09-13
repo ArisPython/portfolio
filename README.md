@@ -16,21 +16,21 @@
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
 
     <details>
-    <summary>Details</summary>
+        <summary>Details</summary>
     
-    - Fungsi    : Aplikasi bookmarks/capture image dari web lain dan menyimpannya ke app, mirip pinterest addon
-    - Tech      : Django, HTML/CSS/JS, AJAX, Redis, postgresql
-    - Fitur     :
-        - User management (Otentikasi, Registrasi user, Login, logout, rubah password, reset password/lupa password)
-        - Messages framework : pesan highlight pada halaman atas ketika suatu operasi sukses/error
-        - Social authentication : otentikasi user melalui facebook/twitter/google
-        - Bookmarklet menggunakan jquery 
-        - Like/unlike function , menggunakan AJAX-jquery
-        - Pagination Lazy-load menggunakan AJAX
-        - Follow System menggunakan AJAX
-        - Activity Stream : stream aktivitas user yang kita follow (upload, bookmarks, like, follow dll)
-        - Menampilkan Jumlah view menggunakan REDIS
-        - Menampilkan Ranking menggunakan REDIS
+        - Fungsi    : Aplikasi bookmarks/capture image dari web lain dan menyimpannya ke app, mirip pinterest addon
+        - Tech      : Django, HTML/CSS/JS, AJAX, Redis, postgresql
+        - Fitur     :
+            - User management (Otentikasi, Registrasi user, Login, logout, rubah password, reset password/lupa password)
+            - Messages framework : pesan highlight pada halaman atas ketika suatu operasi sukses/error
+            - Social authentication : otentikasi user melalui facebook/twitter/google
+            - Bookmarklet menggunakan jquery 
+            - Like/unlike function , menggunakan AJAX-jquery
+            - Pagination Lazy-load menggunakan AJAX
+            - Follow System menggunakan AJAX
+            - Activity Stream : stream aktivitas user yang kita follow (upload, bookmarks, like, follow dll)
+            - Menampilkan Jumlah view menggunakan REDIS
+            - Menampilkan Ranking menggunakan REDIS
     
     </details
  3. Online Shop Antonio --> [source](https://github.com/ArisDjango/OnlineShopAntonioReborn2)
