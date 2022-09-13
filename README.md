@@ -15,7 +15,7 @@
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
 
     <details>
-        <summary>Details</summary>
+       <summary>Details</summary>
     
         - Fungsi    : Aplikasi bookmarks/capture image dari web lain dan menyimpannya ke app, mirip pinterest addon
         - Tech      : Django, HTML/CSS/JS, AJAX, Redis, postgresql
