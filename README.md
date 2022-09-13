@@ -5,7 +5,7 @@
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio)
 
     <details>
-        <summary>Detail</summary>
+        <summary>Details</summary>
 
         - Fungsi    : Blog Sederhana
         - Tech      : Django, HTML/CSS/JS, postgresql
@@ -14,6 +14,10 @@
 
      </details>
 2. Bookmarks ( social media ) --> [Source](https://github.com/ArisDjango/SosmedAntonio)
+
+    <details>
+    <summary>Details</summary>
+    
     - Fungsi    : Aplikasi bookmarks/capture image dari web lain dan menyimpannya ke app, mirip pinterest addon
     - Tech      : Django, HTML/CSS/JS, AJAX, Redis, postgresql
     - Fitur     :
@@ -27,6 +31,8 @@
         - Activity Stream : stream aktivitas user yang kita follow (upload, bookmarks, like, follow dll)
         - Menampilkan Jumlah view menggunakan REDIS
         - Menampilkan Ranking menggunakan REDIS
+    
+    </details
  3. Online Shop Antonio --> [source](https://github.com/ArisDjango/OnlineShopAntonioReborn2)
     - Fungsi        : Online Shop Sederhana
     - Tech          : Django, HTML/CSS/JS, celery-rabbitMQ, Redis, Django-rosetta, postgresql, docker
