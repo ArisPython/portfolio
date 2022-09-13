@@ -56,6 +56,7 @@
 
     <details>
         <summary>Details</summary>
+   
         - Fungsi        : Content Management System E-Learning
         - Tech          : Django, HTML/CSS/JS, memcached, DRF, django-channels & redis, websocket-jquery, postgresql, docker
         - Fitur         : 
@@ -75,6 +76,7 @@
   
      <details>
        <summary>Details</summary>
+   
         - Fungsi       : Ecommerce sederhana
         - Tech         : Django, Bootstrap5, sqlite, AJAX
         - Fitur        :
@@ -88,6 +90,7 @@
   
      <details>
        <summary>Details</summary>
+   
         - Fungsi       : Blog sederhana
         - Tech         : Django, DRF, React
      </details>
@@ -104,6 +107,7 @@
   
      <details>
        <summary>Details</summary>
+   
         - Fungsi       : CRUD
         - Tech         : FastAPI, MongoDB
         - Fitur        : Otentikasi, OAuth2 dan JWT, dependency Injection, CORS
