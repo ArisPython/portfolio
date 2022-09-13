@@ -86,23 +86,23 @@
   ### API
   1. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
   
-  <details>
-    <summary>Details</summary>
-     - Fungsi       : Blog sederhana
-     - Tech         : Django, DRF, React
-  </details>
+     <details>
+       <summary>Details</summary>
+        - Fungsi       : Blog sederhana
+        - Tech         : Django, DRF, React
+     </details>
   2. Todo sederhana (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/todos)
   
-  <details>
-    <summary>Details</summary>
-     - Fungsi       : fungsionalitas CRUD
-     - Tech         : FastAPI
-  </details>
+     <details>
+       <summary>Details</summary>
+        - Fungsi       : fungsionalitas CRUD
+        - Tech         : FastAPI
+     </details>
   3. Planner app (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/planner)
   
-  <details>
-    <summary>Details</summary>
-     - Fungsi       : CRUD
-     - Tech         : FastAPI, MongoDB
-     - Fitur        : Otentikasi, OAuth2 dan JWT, dependency Injection, CORS
-  </details>
+     <details>
+       <summary>Details</summary>
+        - Fungsi       : CRUD
+        - Tech         : FastAPI, MongoDB
+        - Fitur        : Otentikasi, OAuth2 dan JWT, dependency Injection, CORS
+     </details>
