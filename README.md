@@ -5,6 +5,7 @@
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio)
 
 <details>
+    <summary>Detail</summary>
     - Fungsi    : Blog Sederhana
     - Tech      : Django, HTML/CSS/JS, postgresql
     - Fitur     : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
