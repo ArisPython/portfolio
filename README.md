@@ -1,7 +1,7 @@
 # Project
 
-## APP
-### Monolith
+
+## Monolith
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio)
    <details>
       <summary>Details</summary>
@@ -83,7 +83,7 @@
         - payment: paypal
   </details>
   
-  ### API
+  ## API
   1. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
   
      <details>
