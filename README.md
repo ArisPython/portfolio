@@ -70,18 +70,18 @@
             - Chat server menggunakan django-channels dan redis
             - Implementasi Web Socket Clients menggunakan jquery
             - Deploy dengan docker
-    </details>
+      </details>
   5. Simple E-commerce --> [source](https://github.com/ArisDjango/ecomVery)
   
-  <details>
-    <summary>Details</summary>
-     - Fungsi       : Ecommerce sederhana
-     - Tech         : Django, Bootstrap5, sqlite, AJAX
-     - Fitur        :
-        - manajemen akun
-        - keranjang belanja
-        - payment: paypal
-  </details>
+     <details>
+       <summary>Details</summary>
+        - Fungsi       : Ecommerce sederhana
+        - Tech         : Django, Bootstrap5, sqlite, AJAX
+        - Fitur        :
+           - manajemen akun
+           - keranjang belanja
+           - payment: paypal
+     </details>
   
   ## API
   1. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
@@ -91,6 +91,7 @@
         - Fungsi       : Blog sederhana
         - Tech         : Django, DRF, React
      </details>
+     
   2. Todo sederhana (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/todos)
   
      <details>
@@ -98,6 +99,7 @@
         - Fungsi       : fungsionalitas CRUD
         - Tech         : FastAPI
      </details>
+     
   3. Planner app (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/planner)
   
      <details>
