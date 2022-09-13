@@ -1,6 +1,7 @@
 # Project
 
 ## APP
+### Monolith
 1. BlogApp-Antonio --> [Source](https://github.com/ArisDjango/BlogAntonio) 
     - Fungsi    : Blog Sederhana
     - Tech      : Django, HTML/CSS/JS, postgresql
@@ -57,13 +58,14 @@
         - manajemen akun
         - keranjang belanja
         - payment: paypal
-  6. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
+  ### API
+  1. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
      - Fungsi       : Blog sederhana
      - Tech         : Django, DRF, React
-  7. Todo sederhana (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/todos)
+  2. Todo sederhana (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/todos)
      - Fungsi       : fungsionalitas CRUD
      - Tech         : FastAPI
-  8. Planner app (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/planner)
+  3. Planner app (CRUD) --> [Source](https://github.com/ArisPython/fastapi/tree/planner-sql/planner)
      - Fungsi       : CRUD
      - Tech         : FastAPI, MongoDB
      - Fitur        : Otentikasi, OAuth2 dan JWT, dependency Injection, CORS
