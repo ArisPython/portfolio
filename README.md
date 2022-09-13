@@ -86,7 +86,7 @@
      </details>
   
   ## API
-  1. Blog simple --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
+  1. Blog simple very --> [Source Backend](https://github.com/ArisDjango/CrudVeryAcademy) -- [Source Frontend](https://github.com/ArisDjango/CrudVeryAcademyReact2)
   
      <details>
           <summary>Details</summary>
